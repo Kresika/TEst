@@ -3,8 +3,10 @@ package com.example.test;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
+    Button button1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
